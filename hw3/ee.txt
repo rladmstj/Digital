@@ -1,0 +1,1008 @@
+ 한국당과의     한국당/NNP+과/JKB+의/JKG
+
+-차별화에       차별/NNG+화/XSN+에/JKB
+
++차별화에       차별화/NNG+에/JKB
+
+ 실패했다는     실패/NNG+하/XSV+았/EP+다는/ETM
+
+ 당     당/NNG
+
+ 안팎의 안팎/NNG+의/JKG
+
+@@ -2107294,8 +2107294,8 @@
+ 조치로 조치/NNG+로/JKB
+
+ 풀이된다.      풀이/NNG+되/XSV+ㄴ다/EM+./SF
+
+ 
+
+-바른정당은     바른/NNP+정당/NNP+은/JX
+
+-또     또/MAJ
+
++바른정당은     바른정당/NNP+은/JX
+
++또     또/MAG
+
+ 26일부터       26/SN+일/NNB+부터/JX
+
+ 금,    금/NNG+,/SP
+
+ 토요일을       토요일/NNG+을/JKO
+
+@@ -2107304,17 +2107304,17 @@
+ 오후   오후/NNG
+
+ 8시    8/SN+시/NNB
+
+ 당사에서       당사/NNG+에서/JKB
+
+-‘탄핵정국      ‘/SS+탄핵/NNP+정국/NNP
+
+-비상시국회의’를        비상시국/NNG+회의/NNP+’/SS+를/JKO
+
+-열기로 열기/NNG+로/JKB
+
++‘탄핵정국      ‘/SS+탄핵/NNG+정국/NNG
+
++비상시국회의’를        비상시국/NNG+회의/NNG+’/SS+를/JKO
+
++열기로 열/VV+기/ETN+로/JKB
+
+ 했다.  하/VV+았/EP+다/EM+./SF
+
+ 
+
+ 도요타 도요타/NNP
+
+-하이브리드     하이브리드/NNP
+
++하이브리드     하이브리드/NNG
+
+ 기술이 기술/NNG+이/JKS
+
+ 포드   포드/NNP
+
+-트럭에…        트럭/NNP+에/JKB+…/SE
+
+-하이브리드車   하이브리드/NNP+車/SH
+
++트럭에…        트럭/NNG+에/JKB+…/SE
+
++하이브리드車   하이브리드/NNG+車/SH
+
+ 공동개발       공동/NNG+개발/NNG
+
+ 합의   합의/NNG
+
+ 
+
+@@ -2107322,7 +2107322,7 @@
+ 도요타와       도요타/NNP+와/JKB
+
+ 미국의 미국/NNP+의/JKG
+
+ 포드가 포드/NNP+가/JKS
+
+-하이브리드     하이브리드/NNP
+
++하이브리드     하이브리드/NNG
+
+ 자동차 자동차/NNG
+
+ 공동   공동/NNG
+
+ 개발에 개발/NNG+에/JKB
+
+@@ -2107330,14 +2107330,14 @@
+ 
+
+ 이에   이/NP+에/JKB
+
+ 따라   따르/VV+아/EM
+
+-하이브리드,    하이브리드/NNP+,/SP
+
+-수소연료차     수소/NNP+연료/NNP+차/NNB
+
++하이브리드,    하이브리드/NNG+,/SP
+
++수소연료차     수소/NNG+연료/NNG+차/NNG
+
+ 등     등/NNB
+
+-친환경자동차   친환경/NNP+자동차/NNP
+
++친환경자동차   친환경/NNG+자동차/NNG
+
+ 기술   기술/NNG
+
+ 개발을 개발/NNG+을/JKO
+
+ 위한   위하/VV+ㄴ/ETM
+
+-글로벌 글로벌/NNP
+
++글로벌 글로벌/NNG
+
+ 자동차 자동차/NNG
+
+ 브랜드들의     브랜드/NNG+들/XSN+의/JKG
+
+ 경쟁이 경쟁/NNG+이/JKS
+
+@@ -2107351,27 +2107351,27 @@
+ 포드는 포드/NNP+는/JX
+
+ 미국   미국/NNP
+
+ 포드   포드/NNP
+
+-본사에서       본사/NNP+에서/JKB
+
+-하이브리드     하이브리드/NNP
+
++본사에서       본사/NNG+에서/JKB
+
++하이브리드     하이브리드/NNG
+
+ 기술을 기술/NNG+을/JKO
+
+ 적용한 적용/NNG+하/XSV+ㄴ/ETM
+
+ 소형   소형/NNG
+
+-트럭과 트럭/NNP+과/JKB
+
+-스포츠유틸리티차량(SUV)을      스포츠/NNP+유틸리티/NNP+차량/NNG+(/SS+SUV/SL+)/SS+을/ETM
+
++트럭과 트럭/NNG+과/JKB
+
++스포츠유틸리티차량(SUV)을      스포츠/NNG+유틸리티/NNG+차량/NNG+(/SS+SUV/SL+)/SS+을/JKO
+
+ 공동   공동/NNG
+
+ 개발하기       개발/NNG+하/XSV+기/ETN
+
+ 위한   위하/VV+ㄴ/ETM
+
+-양해각서(MOU)를        양해각서/NNP+(/SS+MOU/SL+)/SS+를/JKO
+
++양해각서(MOU)를        양해/NNG+각서/NNG+(/SS+MOU/SL+)/SS+를/JKO
+
+ 체결했다고     체결/NNG+하/XSV+았/EP+다고/EM
+
+ 밝혔다.        밝히/VV+었/EP+다/EM+./SF
+
+ 
+
+-양사는 양사/NNP+는/JX
+
++양사는 양/MM+사/NNG+는/JX
+
+ 내년   내년/NNG
+
+ 정식   정식/NNG
+
+ 합의서를       합의서/NNG+를/JKO
+
+ 체결한 체결/NNG+하/XSV+ㄴ/ETM
+
+ 뒤     뒤/NNG
+
+-본격적인       본격/NNG+적/XSN+이/VCP+ㄴ/ETM
+
++본격적인       본격적/NNG+이/VCP+ㄴ/ETM
+
+ 공동   공동/NNG
+
+ 연구를 연구/NNG+를/JKO
+
+ 시작할 시작/NNG+하/XSV+ㄹ/ETM
+
+@@ -2107392,47 +2107392,47 @@
+ 1997년 1997/SN+년/NNB
+
+ 세계   세계/NNG
+
+ 최초로 최초/NNG+로/JKB
+
+-양산형 양산/NNG+형/XSN
+
+-하이브리드     하이브리드/NNP
+
++양산형 양산형/NNG
+
++하이브리드     하이브리드/NNG
+
+ 모델인 모델/NNG+이/VCP+ㄴ/ETM
+
+-‘프리우스’를   ‘프리우스’를/NA
+
++‘프리우스’를   ‘/SS+프리우스/NNP+’/SS+를/JKO
+
+ 선보인 선보이/VV+ㄴ/ETM
+
+ 도요타는       도요타/NNP+는/JX
+
+-하이브리드     하이브리드/NNP
+
++하이브리드     하이브리드/NNG
+
+ 분야에서       분야/NNG+에서/JKB
+
+ 높은   높/VA+은/ETM
+
+ 기술력을       기술력/NNG+을/JKO
+
+ 갖고   갖/VV+고/EM
+
+-있고   있/VV+고/EM
+
++있고   있/VX+고/EM
+
+ 포드는 포드/NNP+는/JX
+
+-픽업트럭과     픽업/NNP+트럭/NNP+과/JKB
+
++픽업트럭과     픽업트럭/NNG+과/JKB
+
+ SUV에서        SUV/SL+에서/JKB
+
+ 경쟁력을       경쟁력/NNG+을/JKO
+
+ 보유하고       보유/NNG+하/XSV+고/EM
+
+ 있다.  있/VX+다/EM+./SF
+
+ 
+
+ 따라서 따라서/MAJ
+
+-양사의 양사/NNP+의/JKG
+
++양사의 양/MM+사/NNG+의/JKG
+
+ 공동   공동/NNG
+
+ 연구를 연구/NNG+를/JKO
+
+ 통해   통하/VV+아/EM
+
+-시너지를       시너지/NNP+를/JKO
+
+-최대화할       최대/NNG+화/XSN+하/XSV+ㄹ/ETM
+
++시너지를       시너지/NNG+를/JKO
+
++최대화할       최대화/NNG+하/XSV+ㄹ/ETM
+
+ 수     수/NNB
+
+-있다는 있/VV+다는/ETM
+
++있다는 있/VA+다는/ETM
+
+ 장점이 장점/NNG+이/JKS
+
+-있다.  있/VX+다/EM+./SF
+
+-
+
+-또     또/MAJ
+
++있다.  있/VA+다/EM+./SF
+
++
+
++또     또/MAG
+
+ 개발에 개발/NNG+에/JKB
+
+ 많은   많/VA+은/ETM
+
+ 비용이 비용/NNG+이/JKS
+
+ 들     들/VV+ㄹ/ETM
+
+ 것으로 것/NNB+으로/JKB
+
+ 예상되는       예상/NNG+되/XSV+는/ETM
+
+-후륜구동       후륜구동/NNP
+
++후륜구동       후륜/NNG+구동/NNG
+
+ 방식의 방식/NNG+의/JKG
+
+-하이브리드     하이브리드/NNP
+
++하이브리드     하이브리드/NNG
+
+ 기술을 기술/NNG+을/JKO
+
+ 공동   공동/NNG
+
+ 개발함으로써   개발/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+
+@@ -2107440,7 +2107440,7 @@
+ 분산해 분산/NNG+하/XSV+아/EM
+
+ 부담할 부담/NNG+하/XSV+ㄹ/ETM
+
+ 수     수/NNB
+
+-있다는 있/VV+다는/ETM
+
++있다는 있/VA+다는/ETM
+
+ 것도   것/NNB+도/JX
+
+ 이번   이번/NNG
+
+ MOU의  MOU/SL+의/JKG
+
+@@ -2107449,29 +2107449,29 @@
+ 
+
+ 포드의 포드/NNP+의/JKG
+
+ 앨런   앨런/NNP
+
+-멀럴리 멀/VA+러/EM+ㄹ/ETM+리/NNP
+
++멀럴리 멀럴리/NNP
+
+ 사장은 사장/NNG+은/JX
+
+-“이번  “/SS+이번/NNP
+
+-협업이야말로   협업/NNP+이야말로/JX
+
+-에너지의       에너지/NNP+의/JKG
+
++“이번  “/SS+이번/NNG
+
++협업이야말로   협업/NNG+이야말로/JX
+
++에너지의       에너지/NNG+의/JKG
+
+ 자급이나       자급/NNG+이나/JKB
+
+ 지속   지속/NNG
+
+-가능성 가능/NNG+성/XSN
+
++가능성 가능성/NNG
+
+ 등     등/NNB
+
+ 오늘날 오늘날/NNG
+
+-세계적으로     세계/NNG+적/XSN+으로/JKB
+
++세계적으로     세계적/NNG+으로/JKB
+
+ 당면한 당면/NNG+하/XSV+ㄴ/ETM
+
+ 과제에 과제/NNG+에/JKB
+
+ 대응하기       대응/NNG+하/XSV+기/ETN
+
+ 위해서 위하/VV+아서/EM
+
+-필요하다”고    필요/NNG+하/XSV+다/EM+”/SS+고/JKQ
+
++필요하다”고    필요/NNG+하/XSA+다/EM+”/SS+고/JKQ
+
+ 밝혔고,        밝히/VV+었/EP+고/EM+,/SP
+
+ 도요타의       도요타/NNP+의/JKG
+
+-도요다 도요/NNP+다/JX
+
+-아키오 아키/NNP+오/NNP
+
++도요다 도요다/NNP
+
++아키오 아키오/NNP
+
+ 사장   사장/NNG
+
+-역시   역시/MAJ
+
+-“이번  “/SS+이번/NNP
+
++역시   역시/MAG
+
++“이번  “/SS+이번/NNG
+
+ 제휴는 제휴/NNG+는/JX
+
+ 확실히 확실히/MAG
+
+ ‘더    ‘/SS+더/MAG
+
+@@ -2107483,14 +2107483,14 @@
+ 설명했다.      설명/NNG+하/XSV+았/EP+다/EM+./SF
+
+ 
+
+ 용산   용산/NNP
+
+-범대위 범/XPN+대위/NNP
+
++범대위 범대위/NNG
+
+ 공동집행위원장 공동/NNG+집행/NNG+위원장/NNG
+
+ 2명    2/SN+명/NNB
+
+-체포영장       체포영장/NNP
+
+-
+
+-서울중앙지검   서울/NNP+중앙/NNP+지검/NNG
+
+-공안2부(부장   공안/NNP+2/SN+부/NNB+(/SS+부장/NNP
+
+-윤웅걸)는      윤/NNP+웅거/NNP+ㄹ/JKO+)/SS+는/JX
+
++체포영장       체포/NNG+영장/NNG
+
++
+
++서울중앙지검   서울중앙지검/NNP
+
++공안2부(부장   공안/NNG+2/SN+부/NNG+(/SS+부장/NNG
+
++윤웅걸)는      윤웅걸/NNP+)/SS+는/JX
+
+ 지난달 지난달/NNG
+
+ 20일   20/SN+일/NNB
+
+ ‘용산  ‘/SS+용산/NNP
+
+@@ -2107498,58 +2107498,58 @@
+ 참사’가        참사/NNG+’/SS+가/JKS
+
+ 일어난 일어나/VV+ㄴ/ETM
+
+ 뒤     뒤/NNG
+
+-추모집회를     추모/NNG+집회/NNP+를/JKO
+
++추모집회를     추모/NNG+집회/NNG+를/JKO
+
+ 주도해 주도/NNG+하/XSV+아/EM
+
+-온     오/VV+ㄴ/ETM
+
++온     오/VX+ㄴ/ETM
+
+ ‘이명박        ‘/SS+이명박/NNP
+
+ 정권   정권/NNG
+
+ 용산철거민     용산/NNP+철거민/NNG
+
+-살인진압       살인/NNP+진압/NNG
+
+-범국민대책위원회’(범대위)      범/XPN+국민/NNG+대책/NNG+위원회/NNP+’/SS+(/SS+범/XPN+대위/NNP+)/SS
+
+-이아무개씨     이/MM+아무개/NNP+씨/NNB
+
++살인진압       살인/NNG+진압/NNG
+
++범국민대책위원회’(범대위)      범국민/NNG+대책/NNG+위원회/NNG+’/SS+(/SS+범대위/NNG+)/SS
+
++이아무개씨     이/NNP+아무개/NP+씨/NNB
+
+ 등     등/NNB
+
+ 공동집행위원장 공동/NNG+집행/NNG+위원장/NNG
+
+ 두     두/MM
+
+ 명의   명/NNB+의/JKG
+
+-체포영장을     체포영장/NNP+을/JKO
+
++체포영장을     체포/NNG+영장/NNG+을/JKO
+
+ 청구했다고     청구/NNG+하/XSV+았/EP+다고/EM
+
+ 26일   26/SN+일/NNB
+
+ 밝혔다.        밝히/VV+었/EP+다/EM+./SF
+
+ 
+
+-이씨   이씨/NNP
+
++이씨   이/NNP+씨/NNB
+
+ 등은   등/NNB+은/JX
+
+ 서울   서울/NNP
+
+-도심에서       도심/NNP+에서/JKB
+
++도심에서       도심/NNG+에서/JKB
+
+ 신고되지       신고/NNG+되/XSV+지/EM
+
+ 않은   않/VX+은/ETM
+
+-집회을 집회/NNP+을/NNG
+
++집회을 집회/NNG+을/JKO
+
+ 열고   열/VV+고/EM
+
+ 불법   불법/NNG
+
+-도로   도로/MAG
+
+-점거를 점거/NNP+를/JKO
+
++도로   도로/NNG
+
++점거를 점거/NNG+를/JKO
+
+ 해     하/VV+아/EM
+
+ 교통을 교통/NNG+을/JKO
+
+ 방해한 방해/NNG+하/XSV+ㄴ/ETM
+
+-혐의(집회      혐의/NNG+(/SS+집회/NNP
+
+-및     및/MAJ
+
++혐의(집회      혐의/NNG+(/SS+집회/NNG
+
++및     및/MAG
+
+ 시위에 시위/NNG+에/JKB
+
+ 관한   관하/VV+ㄴ/ETM
+
+-법률   법률/NNP
+
++법률   법률/NNG
+
+ 위반)  위반/NNG+)/SS
+
+ 등을   등/NNB+을/JKO
+
+ 받고   받/VV+고/EM
+
+-있으며,        있/VV+으며/EM+,/SP
+
+-2~3차례        2/SN+~/SO+3/SN+차례/NNP
+
++있으며,        있/VX+으며/EM+,/SP
+
++2~3차례        2/SN+~/SO+3/SN+차례/NNG
+
+ 검찰의 검찰/NNG+의/JKG
+
+-소환   소환/NNP
+
++소환   소환/NNG
+
+ 요구에 요구/NNG+에/JKB
+
+ 응하지 응하/VV+지/EM
+
+ 않았다.        않/VX+았/EP+다/EM+./SF
+
+ 
+
+ 검찰은 검찰/NNG+은/JX
+
+ 이날   이날/NNG
+
+-서울중앙지검   서울/NNP+중앙/NNP+지검/NNG
+
+-김희관 김희/NNP+과/JKB+ㄴ/JX
+
++서울중앙지검   서울중앙지검/NNP
+
++김희관 김희관/NNP
+
+ 2차장  2/SN+차장/NNG
+
+ 검사   검사/NNG
+
+ 주재로 주재/NNG+로/JKB
+
+@@ -2107562,14 +2107562,14 @@
+ 28일   28/SN+일/NNB
+
+ 예정된 예정/NNG+되/XSV+ㄴ/ETM
+
+ ‘10만  ‘/SS+10/SN+만/NR
+
+-범국민대회’    범/XPN+국민대회/NNP+’/SS
+
++범국민대회’    범국민/NNG+대회/NNG+’/SS
+
+ 때     때/NNG
+
+ 발생할 발생/NNG+하/XSV+ㄹ/ETM
+
+-가능성이       가능/NNG+성/XSN+이/JKS
+
+-있는   있/VV+는/ETM
+
+-불법행위에     불법행위/NNP+에/JKB
+
++가능성이       가능성/NNG+이/JKS
+
++있는   있/VA+는/ETM
+
++불법행위에     불법/NNG+행위/NNG+에/JKB
+
+ 대해   대하/VV+아/EM
+
+-엄정   엄정/NNP
+
++엄정   엄정/NNG
+
+ 대처하기로     대처/NNG+하/XSV+기/ETN+로/JKB
+
+ 했다.  하/VV+았/EP+다/EM+./SF
+
+ 
+
+@@ -2107577,16 +2107577,16 @@
+ “용산  “/SS+용산/NNP
+
+ 사건을 사건/NNG+을/JKO
+
+ 빌미로 빌미/NNG+로/JKB
+
+-주말마다       주말/NNP+마다/JX
+
+-도로점거와     도로/NNP+점거/NNP+와/JKB
+
++주말마다       주말/NNG+마다/JX
+
++도로점거와     도로/NNG+점거/NNG+와/JKB
+
+ 투석,  투석/NNG+,/SP
+
+-경찰버스       경찰/NNP+버스/NNP
+
+-훼손   훼손/NNP
+
++경찰버스       경찰/NNG+버스/NNG
+
++훼손   훼손/NNG
+
+ 등이   등/NNB+이/JKS
+
+ 일어나고       일어나/VV+고/EM
+
+-있다”며        있다/NNP+”/SS+이/VCP+며/EM
+
+-“현장  “/SS+현장/NNP
+
+-불법행위자     불법행위/NNP+자/NNB
+
++있다”며        있/VX+다/EM+”/SS+며/EM
+
++“현장  “/SS+현장/NNG
+
++불법행위자     불법/NNG+행위자/NNG
+
+ 검거는 검거/NNG+는/JX
+
+ 물론   물론/MAG
+
+ 시위를 시위/NNG+를/JKO
+
+@@ -2107596,54 +2107596,54 @@
+ 검거해 검거/NNG+하/XSV+아/EM
+
+ 시민   시민/NNG
+
+ 불편을 불편/NNG+을/JKO
+
+-최소화하겠다”고        최소/NNG+화/XSN+하/XSV+겠/EP+다/EM+”/SS+고/JKQ
+
++최소화하겠다”고        최소화/NNG+하/XSV+겠/EP+다/EM+”/SS+고/JKQ
+
+ 밝혔다.        밝히/VV+었/EP+다/EM+./SF
+
+ 
+
+-한편,  한편/NNG+,/SP
+
++한편,  한편/MAG+,/SP
+
+ 이날   이날/NNG
+
+ 서울   서울/NNP
+
+-용산경찰서는   용산/NNP+경찰서/NNP+는/JX
+
++용산경찰서는   용산경찰서/NNP+는/JX
+
+ 용산참사       용산/NNP+참사/NNG
+
+ 철거민 철거민/NNG
+
+ 사망자 사망자/NNG
+
+-합동분향소에서 합동/NNP+분향소/NNP+에서/JKB
+
++합동분향소에서 합동/NNG+분향소/NNG+에서/JKB
+
+ 경찰을 경찰/NNG+을/JKO
+
+ 감금하고       감금/NNG+하/XSV+고/EM
+
+ 폭행한 폭행/NNG+하/XSV+ㄴ/ETM
+
+-혐의(특수공무집행방해  혐의/NNG+(/SS+특수/NNP+공무/NNP+집행/NNG+방해/NNG
+
++혐의(특수공무집행방해  혐의/NNG+(/SS+특수/NNG+공무/NNG+집행/NNG+방해/NNG
+
+ 치상   치상/NNG
+
+ 등)로  등/NNB+)/SS+로/JKB
+
+-전국철거민연합 전국/NNG+철거민/NNG+연합/NNG
+
++전국철거민연합 전국철거민연합/NNP
+
+ 회원   회원/NNG
+
+-인아무개(43)씨를       인/NNG+아무개/NNP+(/SS+43/SN+)/SS+씨/NNB+를/JKO
+
++인아무개(43)씨를       인/NNP+아무개/NP+(/SS+43/SN+)/SS+씨/NNB+를/JKO
+
+ 구속했다.      구속/NNG+하/XSV+았/EP+다/EM+./SF
+
+ 
+
+-교보악사→‘악사다이렉트’        교/NNG+보/NNG+악사/NNG+→/SW+‘/SS+악사/NNG+다이렉/NNP+트/VV+’/SS
+
+-
+
+-교보악사손해보험이     교/NNG+보/NNG+악사/NNG+손해보험/NNP+이/JKS
+
++교보악사→‘악사다이렉트’        교보악사/NNP+→/SW+‘/SS+악사다이렉트/NNP+’/SS
+
++
+
++교보악사손해보험이     교보악사손해보험/NNP+이/JKS
+
+ 20일부터       20/SN+일/NNB+부터/JX
+
+-‘악사다이렉트’로       ‘/SS+악사/NNG+다이렉/NNP+트/VV+’/SS+로/JKB
+
++‘악사다이렉트’로       ‘/SS+악사다이렉트/NNP+’/SS+로/JKB
+
+ 사명을 사명/NNG+을/JKO
+
+ 변경한다고     변경/NNG+하/XSV+ㄴ다고/EM
+
+ 19일   19/SN+일/NNB
+
+ 밝혔다.        밝히/VV+었/EP+다/EM+./SF
+
+ 
+
+-교보악사는     교/NNG+보/NNG+악사/NNG+는/JX
+
+-교보생명       교/NNG+보/NNP+생명/NNP
+
+-자회사에서     자회사/NNP+에서/JKB
+
++교보악사는     교보악사/NNP+는/JX
+
++교보생명       교보생명/NNP
+
++자회사에서     자회사/NNG+에서/JKB
+
+ 2007년 2007/SN+년/NNB
+
+-세계적인       세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+
+-보험그룹       보험/NNP+그룹/NNP
+
+-악사로 악사/NNG+로/JKB
+
++세계적인       세계적/NNG+이/VCP+ㄴ/ETM
+
++보험그룹       보험/NNG+그룹/NNG
+
++악사로 악사/NNP+로/JKB
+
+ 인수된 인수/NNG+되/XSV+ㄴ/ETM
+
+ 이후에도       이후/NNG+에/JKB+도/JX
+
+-친숙한 친숙/NNG+하/XSV+ㄴ/ETM
+
++친숙한 친숙/NNG+하/XSA+ㄴ/ETM
+
+ 이름인 이름/NNG+이/VCP+ㄴ/ETM
+
+-‘교보’를       ‘/SS+교/NNG+보/NNP+’/SS+를/JKO
+
++‘교보’를       ‘/SS+교보/NNP+’/SS+를/JKO
+
+ 사용해왔지만,  사용/NNG+하/XSV+아/EM+오/VX+았/EP+지만/EM+,/SP
+
+-교보   교/NNG+보/NNP
+
++교보   교보/NNP
+
+ 쪽과의 쪽/NNB+과/JKB+의/JKG
+
+-계약기간이     계약/NNP+기간/NNP+이/JKS
+
++계약기간이     계약/NNG+기간/NNG+이/JKS
+
+ 끝남에 끝나/VV+ㅁ/ETN+에/JKB
+
+ 따라   따르/VV+아/EM
+
+ 사명을 사명/NNG+을/JKO
+
+@@ -2107655,49 +2107655,49 @@
+ “소비자들에게  “/SS+소비자/NNG+들/XSN+에게/JKB
+
+ 신뢰와 신뢰/NNG+와/JKB
+
+ 만족을 만족/NNG+을/JKO
+
+-줄     주/VX+ㄹ/ETM
+
++줄     주/VV+ㄹ/ETM
+
+ 수     수/NNB
+
+-있는   있/VV+는/ETM
+
++있는   있/VA+는/ETM
+
+ 회사라는       회사/NNG+이/VCP+라는/ETM
+
+-점을   점/NNB+을/JKO
+
++점을   점/NNG+을/JKO
+
+ 단지   단지/MAG
+
+ 약속하는       약속/NNG+하/XSV+는/ETM
+
+ 데     데/NNB
+
+ 그치지 그치/VV+지/EM
+
+ 않고   않/VX+고/EM
+
+-구체적으로     구체/NNG+적/XSN+으로/JKB
+
++구체적으로     구체적/NNG+으로/JKB
+
+ 증명해 증명/NNG+하/XSV+아/EM
+
+-나갈   나가/VV+ㄹ/ETM
+
++나갈   나가/VX+ㄹ/ETM
+
+ 것”이라며      것/NNB+”/SS+이/VCP+라며/EM
+
+ “기존의        “/SS+기존/NNG+의/JKG
+
+-멤버십 멤버/NNP+십/NR
+
++멤버십 멤버십/NNG
+
+ 서비스인       서비스/NNG+이/VCP+ㄴ/ETM
+
+-플러스 플러스/NNP
+
++플러스 플러스/NNG
+
+ 카드   카드/NNG
+
+ 서비스를       서비스/NNG+를/JKO
+
+ 확대   확대/NNG
+
+ 개편하고       개편/NNG+하/XSV+고/EM
+
+-장기보험       장기/NNP+보험/NNP
+
++장기보험       장기/NNG+보험/NNG
+
+ 등에도 등/NNB+에/JKB+도/JX
+
+ 집중해 집중/NNG+하/XSV+아/EM
+
+-명실상부한     명실상부/NNG+하/XSV+ㄴ/ETM
+
++명실상부한     명실상부/NNG+하/XSA+ㄴ/ETM
+
+ 종합   종합/NNG
+
+ 손보사로       손보사/NNG+로/JKB
+
+ 도약할 도약/NNG+하/XSV+ㄹ/ETM
+
+ 것”이라고      것/NNB+”/SS+이라고/JKQ
+
+ 밝혔다.        밝히/VV+었/EP+다/EM+./SF
+
+ 
+
+-교보악사는     교/NNG+보/NNG+악사/NNG+는/JX
+
++교보악사는     교보악사/NNP+는/JX
+
+ 2001년 2001/SN+년/NNB
+
+ 국내   국내/NNG
+
+ 자동차 자동차/NNG
+
+-보험   보험/NNP
+
++보험   보험/NNG
+
+ 시장에서       시장/NNG+에서/JKB
+
+ 최초로 최초/NNG+로/JKB
+
+ 전화나 전화/NNG+나/JKB
+
+ 온라인을       온라인/NNG+을/JKO
+
+ 통한   통하/VV+ㄴ/ETM
+
+-다이렉트       다이렉/NNP+트/VV
+
++다이렉트       다이렉트/NNG
+
+ 판매   판매/NNG
+
+ 방식을 방식/NNG+을/JKO
+
+ 도입했고,      도입/NNG+하/XSV+았/EP+고/EM+,/SP
+
+@@ -2107713,11 +2107713,11 @@
+ 현재   현재/MAG
+
+ 전체   전체/NNG
+
+ 자동차 자동차/NNG
+
+-보험   보험/NNP
+
++보험   보험/NNG
+
+ 시장에서는     시장/NNG+에서/JKB+는/JX
+
+ 약     약/MM
+
+ 5%의   5/SN+%/SW+의/JKG
+
+-점유율을       점유/NNG+율/XSN+을/JKO
+
++점유율을       점유율/NNG+을/JKO
+
+ 차지하고       차지/NNG+하/XSV+고/EM
+
+ 있다.  있/VX+다/EM+./SF
+
+ 
