@@ -19,4 +19,16 @@ $ ./hanja2hangeul.py -h2 sample.txt   # 한자 -> 한글(한자)
 
 
 - 제출 파일 : hanja2hangeul_table.py, hanja2hangeul_dic.py maxmatch.py hanja2hangeul.py (파일명을 수정하지 말 것! 압축 파일로 만들지 말 것!)
+ hanja2hangeul_table.py,
+한자 1개-한글 1개 변환 테이블 데이터를 갖고있는 파이썬 파일.
+hanja2hangeul_table={"한자 1개":"김", ---} 이런식으로 저장이 되어있음
+그니까 xls 엑셀파일에서 그냥 추출하는 느낌. 데이터 저장용 파일.
 
+  hanja2hangeul_dic.py 
+  한자단어-한글 단어 변환 테이블 데이터를 갖고 있는 파이썬 파일.
+  hanja2hangeul_dic={"한자단어":"선의", --} 이런식으로 저장이 되어 있음
+  이건 그냥 주어지는 파일.
+  
+  maxmatch.py 
+  hanja2hangeul.py
+  
