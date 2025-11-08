@@ -24,23 +24,40 @@ def hanja2hangeul_str1(str):
 def hanja2hangeul_str2(str):
     translated = maxmatch.maxmatch(str, debug=False)
     result = ''
-    pos = 0
-    
-    # 원본과 변환된 문자열을 비교하여 한자 부분만 괄호 처리
-    
+    i = 0
+    j = 0
 
+    while i < len(translated) and j < len(str):
+        # 두 문자가 같으면 그대로 추가
+        if translated[i] == str[j]:
+            result += translated[i]
+            i += 1
+            j += 1
+        else:
+            # 달라지는 연속 구간 찾기
+            diff_t = ''
+            diff_s = ''
+            start_i = i
+            start_j = j
 
+            # translated와 str에서 서로 다른 부분을 끝까지 추적
+            while i < len(translated) and j < len(str) and translated[i] != str[j]:
+                diff_t += translated[i]
+                diff_s += str[j]
+                i += 1
+                j += 1
 
+            # 괄호로 묶어서 추가
+            result += f"{diff_t}({diff_s})"
 
+    # 남은 부분 처리
+    if i < len(translated):
+        result += translated[i:]
+    if j < len(str):
+        result += f"({str[j:]})"
 
-
-
-
-
-
-    
     return result
-
+ 
 ###############################################################################
 if __name__ == "__main__":
 

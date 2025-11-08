@@ -26,29 +26,24 @@ def maxmatch(text, debug=False):
     
     # 한자어-한글 사전에서 발견되는 경우 한글 뒤에 덧붙이는 문자열 예) 半島는  반도*+는
     tag = '*' if debug else ''
-        
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    while pos < n:
+        matched = False
+        for end in range(n, pos, -1):  # 최장일치 탐색
+            chunk = text[pos:end]
+            if chunk in h2h_dic:
+                result.append(h2h_dic[chunk] + tag)
+                pos = end
+                matched = True
+                break
+        if not matched:
+            char = text[pos]
+            if char in h2h_table:
+                result.append(h2h_table[char][0])
+            else:
+                result.append(char)
+            pos += 1
 
     
     if debug:
